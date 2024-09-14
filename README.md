@@ -4,7 +4,7 @@ This is a C++ implementation of the classic Tic-Tac-Toe game where you can play 
 
 The game board is a 3x3 grid, and the cells are numbered from 1 to 9 as shown below:
 markdown
-Copy code
+
  1 | 2 | 3
 -----------
  4 | 5 | 6
